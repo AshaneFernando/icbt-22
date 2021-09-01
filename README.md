@@ -1,3 +1,2 @@
 # Welcome to GitHub
-
-Tharik2222
+Ashane Fernando
